@@ -5,5 +5,5 @@ Created by exdarku (https://mythsecph.xyz/profile/exdarku/)
 
 ### Requirements: 
  - Pyrebase (By thisbejim)
- - https://github.com/thisbejim/Pyrebase
+ https://github.com/thisbejim/Pyrebase
  - Python 3.x
